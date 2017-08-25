@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  Labo02.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\csv.h(50): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\csv.h(62): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\csv.h(63): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\csv.h(64): warning C4018: '>' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\labo02.cpp(61): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\labo02.cpp(78): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\zoekboom11.h(42): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\zoekboom11.h(40) : while compiling class template member function 'int Zoekboom<Sleutel,Data>::berekenPotentiaal(void)'
+          with
+          [
+              Sleutel=int,
+              Data=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\labo02.cpp(65) : see reference to function template instantiation 'int Zoekboom<Sleutel,Data>::berekenPotentiaal(void)' being compiled
+          with
+          [
+              Sleutel=int,
+              Data=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\splayboomb.h(25) : see reference to class template instantiation 'Zoekboom<Sleutel,Data>' being compiled
+          with
+          [
+              Sleutel=int,
+              Data=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo02\labo02.cpp(33) : see reference to class template instantiation 'SplayboomB<Sleutel,Data>' being compiled
+          with
+          [
+              Sleutel=int,
+              Data=int
+          ]
+  Labo02.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo02.exe

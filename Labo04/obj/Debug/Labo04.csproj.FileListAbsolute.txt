@@ -1,0 +1,5 @@
+F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Labo04\bin\Debug\Labo04.exe
+F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Labo04\bin\Debug\Labo04.pdb
+F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Labo04\obj\Debug\Labo04.csprojResolveAssemblyReference.cache
+F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Labo04\obj\Debug\Labo04.exe
+F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Labo04\obj\Debug\Labo04.pdb

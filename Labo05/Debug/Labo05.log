@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Labo05.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo05\boom2d.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo05\labo05.cpp(34): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+  Labo05.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo05.exe

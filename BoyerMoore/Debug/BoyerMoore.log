@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  BoyerMoore.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\boyermoore\boyermoore.cpp(23): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\boyermoore\boyermoore.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\boyermoore\boyermoore.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\boyermoore\boyermoore.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+  BoyerMoore.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\BoyerMoore.exe

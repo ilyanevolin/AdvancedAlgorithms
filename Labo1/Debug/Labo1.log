@@ -1,0 +1,8 @@
+﻿  'Microsoft Visual C++ Compiler Nov 2012 CTP' is for testing purposes only.
+  stdafx.cpp
+  Labo1.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo1\zoekboom11.h(116): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo1\zoekboom11.h(114) : while compiling class template member function 'void Zoekboom<int,int>::evenwichtig(void)'
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo1\labo1.cpp(59) : see reference to function template instantiation 'void Zoekboom<int,int>::evenwichtig(void)' being compiled
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo1\labo1.cpp(10) : see reference to class template instantiation 'Zoekboom<int,int>' being compiled
+  Labo1.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo01.exe

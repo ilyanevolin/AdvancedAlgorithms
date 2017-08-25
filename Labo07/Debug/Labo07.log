@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Labo07.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo07\knuthmorrispratt.h(40): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo07\knuthmorrispratt.h(49): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo07\knuthmorrispratt.h(59): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo07\knuthmorrispratt.h(63): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo07\labo07.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+  Labo07.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo07.exe

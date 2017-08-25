@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Labo10.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(621): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(667): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(669): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(672): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(673): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo10\sais.h(708): warning C4018: '<' : signed/unsigned mismatch
+  Labo10.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo10.exe

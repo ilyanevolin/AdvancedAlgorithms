@@ -1,0 +1,217 @@
+﻿  Labo11.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+          Add directive to 'stdafx.h' or rebuild precompiled header
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(50): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(62): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\domvoorbeeld.h(37): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetKnoopdata<RT,Knoopdata>::GraafMetKnoopdata<RT,Knoopdata>::voegKnoopToe' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\graaf.h(364) : see declaration of 'GraafMetKnoopdata<RT,Knoopdata>::voegKnoopToe'
+          with
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(17) : see reference to class template instantiation 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetTakdata<RT,Takdata>::GraafMetTakdata<RT,Takdata>::voegVerbindingToe' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\graaf.h(286) : see declaration of 'GraafMetTakdata<RT,Takdata>::voegVerbindingToe'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetKnoopdata<RT,Knoopdata>::GraafMetKnoopdata<RT,Knoopdata>::schrijfKnoop' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\graaf.h(370) : see declaration of 'GraafMetKnoopdata<RT,Knoopdata>::schrijfKnoop'
+          with
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetTakdata<RT,Takdata>::GraafMetTakdata<RT,Takdata>::schrijfVerbinding' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\graaf.h(300) : see declaration of 'GraafMetTakdata<RT,Takdata>::schrijfVerbinding'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(51): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(159): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\netwerkgraaf.h(158) : while compiling class template member function 'int NetwerkMetKnoopdata<RT,Takdata,Knoopdata>::geefKnoopIndex(Knoopdata &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(27) : see reference to function template instantiation 'int NetwerkMetKnoopdata<RT,Takdata,Knoopdata>::geefKnoopIndex(Knoopdata &)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(17) : see reference to class template instantiation 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(63): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(62) : while compiling class template member function 'TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::TSA_met_SimAnnealing(void)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(77) : see reference to function template instantiation 'TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::TSA_met_SimAnnealing(void)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(77) : see reference to class template instantiation 'TSA_met_SimAnnealing<RT,Takdata,Knoopdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(110): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(107) : while compiling class template member function 'double TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::f(const Pad<T> &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *,
+              T=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(124): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(120) : while compiling class template member function 'Pad<T> TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::initialSolution(void)'
+          with
+          [
+              T=int,
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(158): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\tsa.h(156) : while compiling class template member function 'void TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::print(const Pad<T> &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *,
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(79) : see reference to function template instantiation 'void TSA_met_SimAnnealing<RT,Takdata,Knoopdata>::print(const Pad<T> &)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *,
+              T=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\probprob.h(82): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\probprob.h(72) : while compiling class template member function 'std::vector<_Ty> ProbProb<Waarde>::geefProbOplossing(void)'
+          with
+          [
+              _Ty=char,
+              Waarde=char
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\probprob.h(102) : see reference to function template instantiation 'std::vector<_Ty> ProbProb<Waarde>::geefProbOplossing(void)' being compiled
+          with
+          [
+              _Ty=char,
+              Waarde=char
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\probprob.h(98) : while compiling class template member function 'std::vector<_Ty> ProbProb<Waarde>::geefOptimum(int)'
+          with
+          [
+              _Ty=char,
+              Waarde=char
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(52) : see reference to function template instantiation 'std::vector<_Ty> ProbProb<Waarde>::geefOptimum(int)' being compiled
+          with
+          [
+              _Ty=char,
+              Waarde=char
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo11\labo11.cpp(21) : see reference to class template instantiation 'ProbProb<Waarde>' being compiled
+          with
+          [
+              Waarde=char
+          ]
+  Labo11.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo11.exe

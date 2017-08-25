@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  stdafx.cpp
+cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  Labo09.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo09\shiftand.h(23): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo09\shiftand.h(35): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo09\shiftand.h(52): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo09\shiftand.h(74): warning C4018: '<' : signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+  Labo09.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo09.exe

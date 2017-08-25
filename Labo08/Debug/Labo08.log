@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Labo08.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\regexp11.h(105): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\labo08.cpp(26): warning C4620: no postfix form of 'operator ++' found for type 'Symbool', using prefix form
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\symbool.h(6) : see declaration of 'Symbool'
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\labo08.cpp(40): warning C4620: no postfix form of 'operator ++' found for type 'Symbool', using prefix form
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\symbool.h(6) : see declaration of 'Symbool'
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\labo08.cpp(59): warning C4620: no postfix form of 'operator ++' found for type 'Symbool', using prefix form
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\symbool.h(6) : see declaration of 'Symbool'
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\labo08.cpp(60): warning C4620: no postfix form of 'operator ++' found for type 'Symbool', using prefix form
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo08\symbool.h(6) : see declaration of 'Symbool'
+  Labo08.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo08.exe

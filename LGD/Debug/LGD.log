@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  LGD.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\lgd\lgd.cpp(49): warning C4018: '<=' : signed/unsigned mismatch
+  LGD.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\LGD.exe

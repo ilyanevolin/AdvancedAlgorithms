@@ -1,0 +1,234 @@
+﻿  stdafx.cpp
+  Labo06.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetKnoopdata<RT,Knoopdata>::GraafMetKnoopdata<RT,Knoopdata>::voegKnoopToe' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\graaf.h(365) : see declaration of 'GraafMetKnoopdata<RT,Knoopdata>::voegKnoopToe'
+          with
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(243) : see reference to class template instantiation 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetTakdata<RT,Takdata>::GraafMetTakdata<RT,Takdata>::voegVerbindingToe' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\graaf.h(287) : see declaration of 'GraafMetTakdata<RT,Takdata>::voegVerbindingToe'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetKnoopdata<RT,Knoopdata>::GraafMetKnoopdata<RT,Knoopdata>::schrijfKnoop' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\graaf.h(371) : see declaration of 'GraafMetKnoopdata<RT,Knoopdata>::schrijfKnoop'
+          with
+          [
+              RT=GERICHT,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(166): warning C4250: 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' : inherits 'GraafMetTakdata<RT,Takdata>::GraafMetTakdata<RT,Takdata>::schrijfVerbinding' via dominance
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          and
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\graaf.h(301) : see declaration of 'GraafMetTakdata<RT,Takdata>::schrijfVerbinding'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(296): warning C4018: '<' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(159): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(158) : while compiling class template member function 'int NetwerkMetKnoopdata<RT,Takdata,Knoopdata>::geefKnoopIndex(Knoopdata &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(252) : see reference to function template instantiation 'int NetwerkMetKnoopdata<RT,Takdata,Knoopdata>::geefKnoopIndex(Knoopdata &)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(243) : see reference to class template instantiation 'NetwerkMetKnoopdata<RT,Takdata,Knoopdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              Knoopdata=char *
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(71): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(50) : while compiling class template member function 'void Netwerk<RT,Takdata>::knopenInSnede(const Netwerk<RT,Takdata> &,std::vector<_Ty> &,int)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              _Ty=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(228) : see reference to function template instantiation 'void Netwerk<RT,Takdata>::knopenInSnede(const Netwerk<RT,Takdata> &,std::vector<_Ty> &,int)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              _Ty=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(17) : see reference to class template instantiation 'Netwerk<RT,Takdata>' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(95): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(94) : while compiling class template member function 'Netwerk<RT,Takdata> &Netwerk<RT,Takdata>::operator +=(const Pad<T> &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(43) : see reference to function template instantiation 'Netwerk<RT,Takdata> &Netwerk<RT,Takdata>::operator +=(const Pad<T> &)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(25) : while compiling class template member function 'Netwerk<RT,Takdata>::Netwerk(int)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\labo06.cpp(96) : see reference to function template instantiation 'Netwerk<RT,Takdata>::Netwerk(int)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(117): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(115) : while compiling class template member function 'Netwerk<RT,Takdata> &Netwerk<RT,Takdata>::operator -=(const Pad<T> &)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(42) : see reference to function template instantiation 'Netwerk<RT,Takdata> &Netwerk<RT,Takdata>::operator -=(const Pad<T> &)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\vergrotendpadzoeker.h(18): warning C4018: '<' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\vergrotendpadzoeker.h(10) : while compiling class template member function 'Vergrotendpadzoeker<T>::Vergrotendpadzoeker(const GraafMetTakdata<RT,Takdata> &,int,int,Pad<T> &)'
+          with
+          [
+              T=int,
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(91) : see reference to function template instantiation 'Vergrotendpadzoeker<T>::Vergrotendpadzoeker(const GraafMetTakdata<RT,Takdata> &,int,int,Pad<T> &)' being compiled
+          with
+          [
+              T=int,
+              RT=GERICHT,
+              Takdata=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(91) : see reference to class template instantiation 'Vergrotendpadzoeker<T>' being compiled
+          with
+          [
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(89) : while compiling class template member function 'void Netwerk<RT,Takdata>::geefVergrotendPad(Pad<T> &,int,int)'
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\netwerkgraaf.h(37) : see reference to function template instantiation 'void Netwerk<RT,Takdata>::geefVergrotendPad(Pad<T> &,int,int)' being compiled
+          with
+          [
+              RT=GERICHT,
+              Takdata=int,
+              T=int
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\vergrotendpadzoeker.h(37): warning C4018: '>=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\vergrotendpadzoeker.h(27) : while compiling class template member function 'void Vergrotendpadzoeker<T>::verwerk(int,int)'
+          with
+          [
+              T=int
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo06\vergrotendpadzoeker.h(14) : see reference to function template instantiation 'void Vergrotendpadzoeker<T>::verwerk(int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Labo06.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo06.exe

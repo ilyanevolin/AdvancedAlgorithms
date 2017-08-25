@@ -1,0 +1,131 @@
+﻿  stdafx.cpp
+  Labo04.cpp
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(291): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(212) : while compiling class template member function 'void Btree<T,D,m>::voegToe(T,D,bool)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\labo04.cpp(40) : see reference to function template instantiation 'void Btree<T,D,m>::voegToe(T,D,bool)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\labo04.cpp(35) : see reference to class template instantiation 'Btree<T,D,m>' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(315): warning C4018: '<=' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(375): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(360) : while compiling class template member function 'std::priority_queue<_Ty,_Container,_Pr> *Btree<T,D,m>::geefDataSorted(void)'
+          with
+          [
+              _Ty=Bknoop<std::string,unsigned int,6>,
+              _Container=std::vector<Bknoop<std::string,unsigned int,6>>,
+              _Pr=CompareKnoop<std::string,unsigned int,6>,
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\labo04.cpp(116) : see reference to function template instantiation 'std::priority_queue<_Ty,_Container,_Pr> *Btree<T,D,m>::geefDataSorted(void)' being compiled
+          with
+          [
+              _Ty=Bknoop<std::string,unsigned int,6>,
+              _Container=std::vector<Bknoop<std::string,unsigned int,6>>,
+              _Pr=CompareKnoop<std::string,unsigned int,6>,
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(158): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(156) : while compiling class template member function 'void Btree<T,D,m>::shiftRightAdd(Bknoop<T,D,6> *,T &,D &,blokindex,blokindex)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(242) : see reference to function template instantiation 'void Btree<T,D,m>::shiftRightAdd(Bknoop<T,D,6> *,T &,D &,blokindex,blokindex)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(175): warning C4018: '<=' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(197): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(190) : while compiling class template member function 'void Btree<T,D,m>::deleteShiftLeft(Bknoop<T,D,6> *,int)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(281) : see reference to function template instantiation 'void Btree<T,D,m>::deleteShiftLeft(Bknoop<T,D,6> *,int)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(205): warning C4018: '<=' : signed/unsigned mismatch
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(25): warning C4552: '/' : operator has no effect; expected operator with side-effect
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(24) : while compiling class template member function 'Bknoop<T,D,m>::Bknoop(void)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(150) : see reference to function template instantiation 'Bknoop<T,D,m>::Bknoop(void)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(392) : see reference to class template instantiation 'Bknoop<T,D,m>' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(96): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(93) : while compiling class template member function 'int Bknoop<T,D,m>::voegToeInArray(T,D,blokindex,blokindex)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(214) : see reference to function template instantiation 'int Bknoop<T,D,m>::voegToeInArray(T,D,blokindex,blokindex)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(128): warning C4018: '<=' : signed/unsigned mismatch
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(127) : while compiling class template member function 'int Bknoop<T,D,m>::exists(T)'
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+          f:\edu\jaar 5\sem 1\algo 2\algoritmen2\labo04\btree.h(233) : see reference to function template instantiation 'int Bknoop<T,D,m>::exists(T)' being compiled
+          with
+          [
+              T=std::string,
+              D=unsigned int,
+              m=6
+          ]
+  Labo04.vcxproj -> F:\edu\Jaar 5\sem 1\Algo 2\Algoritmen2\Debug\Labo04.exe
